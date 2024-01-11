@@ -1,0 +1,19 @@
+.actions-group {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.order-book {
+  display: flex;
+  flex-direction: row;
+}
+
+table {
+  display: block;
+}
+
+th {
+  width: 100px;
+  text-align: left;
+}
